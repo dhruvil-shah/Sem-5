@@ -1,0 +1,5 @@
+A router can process 2 million packets/sec. The load offered to it is 1.5 million packets/
+sec on average. If a route from source to destination contains 10 routers, how
+much time is spent being queued and serviced by the router?
+
+
